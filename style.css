@@ -1,0 +1,19 @@
+*{box-sizing: border-box;}
+.fl{float: left;}
+.bg1{background-color: pink;}
+.bg2{background-color: skyblue;}
+.bg3{background-color: lightcoral;}
+.bg4{background-color: lightseagreen;}
+.bg5{background-color: lightgray;}
+.bg6{background-color: lightgreen;}
+.box-1{width: 19%; height: 280px; margin: auto; margin-top: 10px; margin-left: 1%;}
+.b1{border-top: 30px solid yellowgreen; border-bottom: 10px solid skyblue; border-radius: 50%;}
+.b2{border-right: 20px solid pink; border-radius: 0% 0% 50% 50%;}
+.b3{border-top: 20px solid skyblue; border-radius: 50% 50% 0% 0%;}
+.b4{border-top: 20px solid rgb(252, 208, 127); border-radius: 0% 50% 0% 50%;}
+.b5{border-top: 20px solid lightgray; border-radius: 50% 0% 50% 0%;}
+.b6{border-top: 50px solid skyblue; border-right: 50px solid skyblue; border-bottom: 10px solid coral; border-left: 5px solid coral; border-radius: 50% 50% 30% 0%}
+.b7{border-top: 50px solid pink; border-right: 50px solid cyan; border-bottom: 50px solid coral; border-radius: 50% ;}
+.b8{border-left: 100px solid rgb(252, 208, 127); border-right: 20px solid yellowgreen; border-radius: 0% 50% 50% 0%;}
+.b9{border-bottom: 20px solid lightgray; border-radius: 50% 0% 50% 0%;}
+.b10{border-bottom: 20px solid yellowgreen; border-radius: 0% 50% 0% 50%;}
